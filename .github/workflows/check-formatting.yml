@@ -3,7 +3,7 @@ name: "Check code formatting"
 on:
   push:
     branches:
-      - "develop"
+      - "main"
 
 jobs:
   check-formatting:
